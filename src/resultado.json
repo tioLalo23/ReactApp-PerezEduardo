@@ -1,0 +1,119 @@
+[
+    {
+        "idColonia": "454",
+        "colonia": "SAN FRANCISCO CUAPAN",
+        "idMun": "140",
+        "municipio": "SAN PEDRO CHOLULA",
+        "idEstado": "21",
+        "estado": "PUEBLA",
+        "cp": "72760"
+    },
+    {
+        "idColonia": "455",
+        "colonia": "CHOLULA DE RIVADABIA CENTRO",
+        "idMun": "140",
+        "municipio": "SAN PEDRO CHOLULA",
+        "idEstado": "21",
+        "estado": "PUEBLA",
+        "cp": "72760"
+    },
+    {
+        "idColonia": "2912",
+        "colonia": "CHOLULA",
+        "idMun": "140",
+        "municipio": "SAN PEDRO CHOLULA",
+        "idEstado": "21",
+        "estado": "PUEBLA",
+        "cp": "72760"
+    },
+    {
+        "idColonia": "2914",
+        "colonia": "SANTIAGO CHOLULA INFONAVIT",
+        "idMun": "140",
+        "municipio": "SAN PEDRO CHOLULA",
+        "idEstado": "21",
+        "estado": "PUEBLA",
+        "cp": "72760"
+    },
+    {
+        "idColonia": "2915",
+        "colonia": "SANTIAGO MIXQUITLA",
+        "idMun": "140",
+        "municipio": "SAN PEDRO CHOLULA",
+        "idEstado": "21",
+        "estado": "PUEBLA",
+        "cp": "72760"
+    },
+    {
+        "idColonia": "5821",
+        "colonia": "SAN AGUSTIN CALVARIO",
+        "idMun": "140",
+        "municipio": "SAN PEDRO CHOLULA",
+        "idEstado": "21",
+        "estado": "PUEBLA",
+        "cp": "72760"
+    },
+    {
+        "idColonia": "5905",
+        "colonia": "FLORENCIA",
+        "idMun": "140",
+        "municipio": "SAN PEDRO CHOLULA",
+        "idEstado": "21",
+        "estado": "PUEBLA",
+        "cp": "72760"
+    },
+    {
+        "idColonia": "5998",
+        "colonia": "VILLAS SAN DIEGO",
+        "idMun": "140",
+        "municipio": "SAN PEDRO CHOLULA",
+        "idEstado": "21",
+        "estado": "PUEBLA",
+        "cp": "72760"
+    },
+    {
+        "idColonia": "5999",
+        "colonia": "SAN GREGORIO ZACAPECHPAN",
+        "idMun": "140",
+        "municipio": "SAN PEDRO CHOLULA",
+        "idEstado": "21",
+        "estado": "PUEBLA",
+        "cp": "72760"
+    },
+    {
+        "idColonia": "6796",
+        "colonia": "RINCON DE LA ARBORADA",
+        "idMun": "140",
+        "municipio": "SAN PEDRO CHOLULA",
+        "idEstado": "21",
+        "estado": "PUEBLA",
+        "cp": "72760"
+    },
+    {
+        "idColonia": "6865",
+        "colonia": "ESMERALDA",
+        "idMun": "140",
+        "municipio": "SAN PEDRO CHOLULA",
+        "idEstado": "21",
+        "estado": "PUEBLA",
+        "cp": "72760"
+    },
+    {
+        "idColonia": "6880",
+        "colonia": "DE JESUS",
+        "idMun": "140",
+        "municipio": "SAN PEDRO CHOLULA",
+        "idEstado": "21",
+        "estado": "PUEBLA",
+        "cp": "72760"
+    },
+    {
+        "idColonia": "6882",
+        "colonia": "LOS PINOS",
+        "idMun": "140",
+        "municipio": "SAN PEDRO CHOLULA",
+        "idEstado": "21",
+        "estado": "PUEBLA",
+        "cp": "72760"
+    }
+]
